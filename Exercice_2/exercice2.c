@@ -3,11 +3,8 @@
 EXERCICE 2 MATRICE DE HILBERT
 
 *******************************************************************************/
-
 #include <stdio.h>
-
 void matriceHilbert();
-
 // Déclaration des variables globales
 int i, j;
 
