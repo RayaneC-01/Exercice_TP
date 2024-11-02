@@ -6,6 +6,7 @@ EXERCICE 4  RECHERCHE DICHOTOMIQUE
 *******************************************************************************/
 #include <stdio.h>
 
+
 // declaration variables globale
 double a;
 double precision = 0.000001;
