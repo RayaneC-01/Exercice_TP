@@ -9,7 +9,6 @@ int main() {
     printf("Veuillez entrer un entier compris entre 1 et 6 : ");
     // Lecture de l'entier saisi par l'utilisateur
     scanf("%d", &n);  
-
         // 2. Vérifier que l'entier est valide
         if(n < 1  || n > 6) {
             printf("Valeur invalide ! Veuillez entrer un entier compris entre 1 et 6 : ");
