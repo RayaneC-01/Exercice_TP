@@ -8,9 +8,9 @@ int main() {
   int N, i;
   int diviseur, est_premier;
   
+
   while (1){
     printf("Entrez un nombre positif : ");
-
     if (scanf("%d", &N) != 1 || N < 1){
 
       printf("Erreur : Veuillez entrer un entier strictement positif.\n");
